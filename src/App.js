@@ -4,7 +4,7 @@ import Zoom from 'react-reveal/Zoom';
 function App() {
   return (
     <div className="App">
-      <img src="/icon/favicon-96x96.png"/>
+      <img src="/icon/favicon-96x96.png" alt="Elena Ambitska"/>
       <Zoom>
         <p>Лена</p>
       </Zoom>
