@@ -3,6 +3,11 @@
   font-size: 25.5vw
 }
 
+.App p {
+  min-height: 100vh;
+  display: block;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
